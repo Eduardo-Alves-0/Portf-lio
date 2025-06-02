@@ -1,2 +1,1 @@
-# Portf-lio
-Meu portfólio pessoal de desenvolvedor, criado com foco em responsividade, desempenho e apresentação de projetos. Desenvolvido com HTML, CSS e JavaScript
+Portfólio desenvolvido para apresentar meus projetos, habilidades em desenvolvimento web e trajetória como estudante de Análise e Desenvolvimento de Sistemas. Criado com foco em simplicidade, acessibilidade e código bem estruturado.
