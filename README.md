@@ -1,1 +1,0 @@
-Portfólio desenvolvido para apresentar meus projetos, habilidades em desenvolvimento web e trajetória como estudante de Análise e Desenvolvimento de Sistemas. Criado com foco em simplicidade, acessibilidade e código bem estruturado.
