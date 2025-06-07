@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="d2fh7UBhQg8kpc4wbfIJ" name="Page-1">
+        <mxGraphModel dx="1183" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;Portfolio&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="140" width="285" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" style="edgeStyle=none;html=1;entryX=0.035;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;ul&gt;&lt;li&gt;Home&lt;/li&gt;&lt;li&gt;About&lt;/li&gt;&lt;li&gt;Projects&lt;/li&gt;&lt;li&gt;Skills&lt;/li&gt;&lt;li&gt;Certificados&lt;/li&gt;&lt;li&gt;Blog/Aprendizado&lt;/li&gt;&lt;li&gt;Contato&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=#BD7000;fillColor=#f0a30a;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="90" width="220" height="280" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
