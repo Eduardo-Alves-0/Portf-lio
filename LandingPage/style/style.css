@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+:root {
+
+    /*colors*/
+
+    --background-color: #22577a;
+    --text-light: #f9f9f9;
+    --text-dark: #2a2a2a;
+    --title-color: #80ed99;
+    --subtitle-color: #57cc99;
+    --button-hover-color: #459a75;
+
+    /*fonts*/
+
+    --body-font: 'Space Grotesk', sans-serif;
+
+    --big-font-size: 8rem;
+    --h1-font-size: 3.75rem;
+    --h2-font-size: 3rem;
+    --h3-font-size: 1.5rem;
+    --larger-font-size: 1.25rem;
+    --large-font-size: 1.125rem;
+    --normal-font-size: 1rem;
+    --small-font-size: 0.875rem;
+
+    --font-weight-Light: 300;
+    --font-weight-Regular: 400;
+    --font-weight-Medium: 500;
+    --font-weight-Bold: 700;
+}
+
+    /*base*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,
+button,
+input,
+textarea {
+    font-family: var(--body-font);
+    font-size:  var(--font-Medium);
+}
+
+body{
+    background-color: var(--background-color);
+}
+
+h1,
+h2,
+h3 {
+    color: var(--title-color);
+    font-weight: var(--font-weight-Bold);
+    line-height: 1.2;
+}
+
+p {
+    line-height: 1.75;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+button,
+input,
+textarea {
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
